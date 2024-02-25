@@ -6,6 +6,6 @@ primative data type
 3 bollen=true or false
 4 null =type of object*
 5 undifind=type of undefind
-6 nan =not a number
-7 symbol =unique
+
+6 symbol =unique
 */
